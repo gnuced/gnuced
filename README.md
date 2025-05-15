@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6825d1142755c702443146f1?variant=dark&roadmaps=devops)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6825d1142755c702443146f1?variant=dark&roadmaps=git-github%2Cdevops)](https://roadmap.sh)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gnuced&theme=nord&no-frame=true&no-bg=true)]()
 
